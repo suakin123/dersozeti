@@ -1,0 +1,8 @@
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\bin\Debug\DersÖzeti.exe.config
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\bin\Debug\DersÖzeti.exe
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\bin\Debug\DersÖzeti.pdb
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\obj\Debug\DersÖzeti.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\obj\Debug\DersÖzeti.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\obj\Debug\DersÖzeti.exe
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\obj\Debug\DersÖzeti.pdb
+C:\Users\hp\OneDrive\Belgeler\GitHub\dersozeti\DersÖzeti\obj\Debug\DersÖzeti.exe.config
