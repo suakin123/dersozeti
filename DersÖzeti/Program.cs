@@ -87,7 +87,7 @@ namespace DersÖzeti
     
              */
 
-
+            /*
             //Kullanıcıdan 10 tane sayı isteyiniz, girdiği en büyük ve en küçük  sayıyı ekrana yazınız.
             int a;
             int[]SayiDizisi = new int[10];
@@ -101,8 +101,43 @@ namespace DersÖzeti
             
             Console.WriteLine("girilen en küçük sayı: " + SayiDizisi[0]);
             Console.WriteLine("girilen en büyük sayı: " + SayiDizisi[9]);
-            
+            */
+            // {123,456,789,010,111,613} int sifre dizisini oluşturunuz. Kullanıcıdan bir sifre girmesini isteyiniz,
+            // girdiği sifre dizide var ise ekrana sifre eşleşti yazınız.
+            /*
+            int[] SifreDizisi = { 123, 456, 789, 010, 111, 613 };
+            int a;
+            Console.WriteLine("Şifre Giriniz");
+            a = Convert.ToInt32(Console.ReadLine());
+            if (a == SifreDizisi[])
+            {
+                Console.WriteLine("Eşleşti");
+            }
+            else
+            {
+                Console.WriteLine("Eşleşmedi. Tekrar deneyiniz.");
+            }
+            */
 
+            //1-100 arasındaki sayıları bir diziye kayıt ediniz. Bu dizide 5'e bölünen sayıları ayrı bir diziye kayıt ediniz.
+            int[] BirdenYuze = new int[100];
+            int[] BesinKati = new int[100];
+            for (int i = 0; i < 100; i++)
+            {
+                 BirdenYuze[i] = i;
+                
+                if (BirdenYuze[i] % 5 == 0)
+                {
+                    BesinKati[i] = BirdenYuze[i];
+                    Console.WriteLine(BesinKati[i]);
+                }
+                else
+                {
+                   BirdenYuze[i] = i;
+                }
+               
+            }
+            
 
 
 
